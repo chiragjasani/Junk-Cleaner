@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/TechnoTouch/Downloads/CleanStudio/CleanStudio/app/src/main/res/layout/activity_application_manager.xml" value="0.17604166666666668" />
+        <entry key="..\:/Users/TechnoTouch/Downloads/CleanStudio/CleanStudio/app/src/main/res/layout/activity_main.xml" value="0.17604166666666668" />
+        <entry key="..\:/Users/TechnoTouch/Downloads/CleanStudio/CleanStudio/app/src/main/res/layout/activity_software_manage.xml" value="0.2" />
+        <entry key="..\:/Users/TechnoTouch/Downloads/CleanStudio/CleanStudio/app/src/main/res/layout/applying_ultra.xml" value="0.3546875" />
+        <entry key="..\:/Users/TechnoTouch/Downloads/CleanStudio/CleanStudio/app/src/main/res/layout/battery_saver.xml" value="0.3546875" />
+        <entry key="..\:/Users/TechnoTouch/Downloads/CleanStudio/CleanStudio/app/src/main/res/layout/cpu_cooler.xml" value="0.3546875" />
+        <entry key="..\:/Users/TechnoTouch/Downloads/CleanStudio/CleanStudio/app/src/main/res/layout/cpu_scanner.xml" value="0.3546875" />
+        <entry key="..\:/Users/TechnoTouch/Downloads/CleanStudio/CleanStudio/app/src/main/res/layout/fragment_activity.xml" value="0.3546875" />
+        <entry key="..\:/Users/TechnoTouch/Downloads/CleanStudio/CleanStudio/app/src/main/res/layout/fragment_me_.xml" value="0.3546875" />
+        <entry key="..\:/Users/TechnoTouch/Downloads/CleanStudio/CleanStudio/app/src/main/res/layout/junk_cleaner.xml" value="0.3546875" />
+        <entry key="..\:/Users/TechnoTouch/Downloads/CleanStudio/CleanStudio/app/src/main/res/layout/junk_recycler_apps.xml" value="0.3546875" />
+        <entry key="..\:/Users/TechnoTouch/Downloads/CleanStudio/CleanStudio/app/src/main/res/layout/listview_software.xml" value="0.3546875" />
+        <entry key="..\:/Users/TechnoTouch/Downloads/CleanStudio/CleanStudio/app/src/main/res/layout/memory_info_layout.xml" value="0.17604166666666668" />
+        <entry key="..\:/Users/TechnoTouch/Downloads/CleanStudio/CleanStudio/app/src/main/res/layout/my_toast.xml" value="0.17604166666666668" />
+        <entry key="..\:/Users/TechnoTouch/Downloads/CleanStudio/CleanStudio/app/src/main/res/layout/phone_booster.xml" value="0.3546875" />
+        <entry key="..\:/Users/TechnoTouch/Downloads/CleanStudio/CleanStudio/app/src/main/res/layout/pick_apps.xml" value="0.3546875" />
+        <entry key="..\:/Users/TechnoTouch/Downloads/CleanStudio/CleanStudio/app/src/main/res/layout/powe_itemlist.xml" value="0.3546875" />
+        <entry key="..\:/Users/TechnoTouch/Downloads/CleanStudio/CleanStudio/app/src/main/res/layout/powersaving_completion.xml" value="0.3546875" />
+        <entry key="..\:/Users/TechnoTouch/Downloads/CleanStudio/CleanStudio/app/src/main/res/layout/powersaving_main.xml" value="0.3546875" />
+        <entry key="..\:/Users/TechnoTouch/Downloads/CleanStudio/CleanStudio/app/src/main/res/layout/powersaving_maintextclock.xml" value="0.3546875" />
+        <entry key="..\:/Users/TechnoTouch/Downloads/CleanStudio/CleanStudio/app/src/main/res/layout/powersaving_popup.xml" value="0.3546875" />
+        <entry key="..\:/Users/TechnoTouch/Downloads/CleanStudio/CleanStudio/app/src/main/res/layout/progress_spinner.xml" value="0.3546875" />
+        <entry key="..\:/Users/TechnoTouch/Downloads/CleanStudio/CleanStudio/app/src/main/res/layout/progress_wheel_activity.xml" value="0.3546875" />
+        <entry key="..\:/Users/TechnoTouch/Downloads/CleanStudio/CleanStudio/app/src/main/res/layout/recycler_apps.xml" value="0.3546875" />
+        <entry key="..\:/Users/TechnoTouch/Downloads/CleanStudio/CleanStudio/app/src/main/res/layout/revert_powersaving.xml" value="0.3546875" />
+        <entry key="..\:/Users/TechnoTouch/Downloads/CleanStudio/CleanStudio/app/src/main/res/layout/revert_to_normal.xml" value="0.3546875" />
+        <entry key="..\:/Users/TechnoTouch/Downloads/CleanStudio/CleanStudio/app/src/main/res/layout/scan_cpu_apps.xml" value="0.3546875" />
+        <entry key="..\:/Users/TechnoTouch/Downloads/CleanStudio/CleanStudio/app/src/main/res/layout/scanning_junk.xml" value="0.3546875" />
+        <entry key="..\:/Users/TechnoTouch/Downloads/CleanStudio/CleanStudio/app/src/main/res/layout/ultra_popup.xml" value="0.25" />
+        <entry key="..\:/Users/TechnoTouch/Downloads/CleanStudio/CleanStudio/app/src/main/res/menu/bottom_nav_menu.xml" value="0.3546875" />
+        <entry key="..\:/Users/TechnoTouch/Downloads/CleanStudio/CleanStudio/app/src/main/res/menu/menu_main.xml" value="0.3546875" />
+        <entry key="..\:/Users/TechnoTouch/Downloads/CleanStudio/CleanStudio/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1615" />
+        <entry key="..\:/Users/TechnoTouch/Downloads/CleanStudio/CleanStudio/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1615" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
